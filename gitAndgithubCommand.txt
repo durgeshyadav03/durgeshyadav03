@@ -1,6 +1,6 @@
 C:\Durgesh\Web_dev>git config --global user.name "durgeshyadav03"
 
-C:\Durgesh\Web_dev>git config --global user.name "durgeshyadav3013@gmail.com"
+C:\Durgesh\Web_dev>git config --global user.email "durgeshyadav3013@gmail.com"
 
 C:\Durgesh\Web_dev>git config --global color.ui auto
 
@@ -20,3 +20,5 @@ C:\Durgesh\Web_dev>git status
 C:\Durgesh\Web_dev>git commit m 'Any Message'
  
 C:\Durgesh\Web_dev>git push
+
+C:\Durgesh\Web_dev>git push --set-upstream origin main
