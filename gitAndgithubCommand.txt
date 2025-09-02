@@ -17,8 +17,13 @@ C:\Durgesh\Web_dev>git add
 
 C:\Durgesh\Web_dev>git status
 
-C:\Durgesh\Web_dev>git commit m 'Any Message'
+C:\Durgesh\Web_dev>git commit -m 'Any Message'
  
 C:\Durgesh\Web_dev>git push
 
+
 C:\Durgesh\Web_dev>git push --set-upstream origin main
+
+#create new branch
+C:\Durgesh\Web_dev>git checkout -b "branchname"
+
