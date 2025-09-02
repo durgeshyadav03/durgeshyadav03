@@ -1,0 +1,24 @@
+C:\Durgesh\Web_dev>git config --global user.name "durgeshyadav03"
+
+C:\Durgesh\Web_dev>git config --global user.email "durgeshyadav3013@gmail.com"
+
+C:\Durgesh\Web_dev>git config --global color.ui auto
+
+C:\Durgesh\Web_dev>git init
+Initialized empty Git repository in C:/Durgesh/Web_dev/.git/
+
+C:\Durgesh\Web_dev>git remote add origin https://github.com/durgeshyadav03/durgeshyadav03.git
+
+C:\Durgesh\Web_dev>git pull origin main
+
+C:\Durgesh\Web_dev>git status
+
+C:\Durgesh\Web_dev>git add
+
+C:\Durgesh\Web_dev>git status
+
+C:\Durgesh\Web_dev>git commit m 'Any Message'
+ 
+C:\Durgesh\Web_dev>git push
+
+C:\Durgesh\Web_dev>git push --set-upstream origin main
